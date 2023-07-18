@@ -1,1 +1,10 @@
+let Lutador A = pesos[0]
+let Lutador B = pesos [1]
 
+if (LutadorA > LutadorB){
+  console.log("PODEM LUTAR"){
+  else if(LutadorB > LutadorA){
+    console.log("NAO PODEM LUTAR")
+  }
+  }
+}
